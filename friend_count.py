@@ -1,6 +1,6 @@
 import MapReduce
 import sys
-
+#this prolem counts friends using map reduce algorithm
 mr = MapReduce.MapReduce()
 
 def mapper(record):
