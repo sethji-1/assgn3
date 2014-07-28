@@ -6,6 +6,7 @@ mr = MapReduce.MapReduce()
 
 # =============================
 # Do not modify above this line
+#as if I am going to :p
 
 def mapper(record):
     # key: document identifier
